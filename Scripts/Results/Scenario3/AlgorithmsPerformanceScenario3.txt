@@ -1,0 +1,58 @@
+A Star,Dijkstra
+
+A Star Cycle, 00:00:00.0007251
+Dijkstra Cycle, 00:00:00.0187572
+
+A Star Cycle, 00:00:00.0020167	
+Dijkstra Cycle, 00:00:00.0247628
+
+A Star Cycle, 00:00:00.0007588
+Dijkstra Cycle, 00:00:00.0226861
+
+A Star Cycle, 00:00:00.0006970
+Dijkstra Cycle, 00:00:00.0220110
+
+A Star Cycle, 00:00:00.0012064
+Dijkstra Cycle, 00:00:00.0260555
+
+A Star Cycle, 00:00:00.0007027
+Dijkstra Cycle, 00:00:00.0215781
+
+A Star Cycle, 00:00:00.0007227
+Dijkstra Cycle, 00:00:00.0214662
+
+A Star Cycle, 00:00:00.0007003
+Dijkstra Cycle, 00:00:00.0219244
+
+A Star Cycle, 00:00:00.0007724
+Dijkstra Cycle, 00:00:00.0209676
+
+A Star Cycle, 00:00:00.0007140
+Dijkstra Cycle, 00:00:00.0218777
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

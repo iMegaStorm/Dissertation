@@ -1,0 +1,475 @@
+A Star,Dijkstra
+
+
+A Star Cycle, 146
+Dijkstra Cycle, 141
+A Star Cycle, 6
+Dijkstra Cycle, 5
+A Star Cycle, 4
+Dijkstra Cycle, 6
+A Star Cycle, 8
+Dijkstra Cycle, 7
+A Star Cycle, 5
+Dijkstra Cycle, 5
+A Star Cycle, 4
+Dijkstra Cycle, 4
+A Star Cycle, 12
+Dijkstra Cycle, 20
+A Star Cycle, 9
+Dijkstra Cycle, 10
+Dijkstra Cycle, 14
+Dijkstra Cycle, 9
+A Star Cycle, 14
+Dijkstra Cycle, 6
+Dijkstra Cycle, 10
+A Star Cycle, 10
+Dijkstra Cycle, 28
+A Star Cycle, 10
+Dijkstra Cycle, 6
+Dijkstra Cycle, 10
+A Star Cycle, 5
+A Star Cycle, 8
+Dijkstra Cycle, 10
+A Star Cycle, 6
+Dijkstra Cycle, 11
+Dijkstra Cycle, 74
+Dijkstra Cycle, 48
+A Star Cycle, 6
+
+
+A Star Cycle, 166
+Dijkstra Cycle, 163
+Dijkstra Cycle, 10
+A Star Cycle, 8
+A Star Cycle, 6
+Dijkstra Cycle, 4
+A Star Cycle, 5
+Dijkstra Cycle, 7
+A Star Cycle, 4
+Dijkstra Cycle, 6
+Dijkstra Cycle, 4
+A Star Cycle, 5
+A Star Cycle, 10
+Dijkstra Cycle, 10
+A Star Cycle, 14
+Dijkstra Cycle, 11
+Dijkstra Cycle, 14
+Dijkstra Cycle, 7
+A Star Cycle, 11
+Dijkstra Cycle, 7
+Dijkstra Cycle, 9
+A Star Cycle, 9
+Dijkstra Cycle, 8
+A Star Cycle, 13
+Dijkstra Cycle, 5
+Dijkstra Cycle, 6
+A Star Cycle, 4
+A Star Cycle, 7
+Dijkstra Cycle, 5
+A Star Cycle, 6
+Dijkstra Cycle, 8
+Dijkstra Cycle, 57
+Dijkstra Cycle, 46
+A Star Cycle, 6
+
+
+A Star Cycle, 114
+Dijkstra Cycle, 111
+Dijkstra Cycle, 12
+A Star Cycle, 4
+A Star Cycle, 6
+Dijkstra Cycle, 5
+A Star Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 4
+Dijkstra Cycle, 3
+Dijkstra Cycle, 5
+A Star Cycle, 3
+A Star Cycle, 11
+Dijkstra Cycle, 10
+A Star Cycle, 8
+Dijkstra Cycle, 7
+Dijkstra Cycle, 14
+Dijkstra Cycle, 5
+A Star Cycle, 10
+Dijkstra Cycle, 5
+Dijkstra Cycle, 10
+A Star Cycle, 11
+Dijkstra Cycle, 20
+A Star Cycle, 9
+Dijkstra Cycle, 3
+Dijkstra Cycle, 5
+A Star Cycle, 3
+A Star Cycle, 7
+Dijkstra Cycle, 6
+A Star Cycle, 6
+Dijkstra Cycle, 12
+Dijkstra Cycle, 50
+Dijkstra Cycle, 43
+A Star Cycle, 5
+
+
+A Star Cycle, 111
+Dijkstra Cycle, 108
+Dijkstra Cycle, 4
+A Star Cycle, 3
+A Star Cycle, 5
+Dijkstra Cycle, 4
+A Star Cycle, 5
+Dijkstra Cycle, 5
+A Star Cycle, 4
+Dijkstra Cycle, 6
+A Star Cycle, 3
+Dijkstra Cycle, 4
+A Star Cycle, 14
+Dijkstra Cycle, 13
+A Star Cycle, 12
+Dijkstra Cycle, 8
+Dijkstra Cycle, 10
+Dijkstra Cycle, 7
+A Star Cycle, 14
+Dijkstra Cycle, 5
+Dijkstra Cycle, 8
+A Star Cycle, 7
+Dijkstra Cycle, 11
+A Star Cycle, 8
+Dijkstra Cycle, 6
+Dijkstra Cycle, 5
+A Star Cycle, 4
+A Star Cycle, 6
+Dijkstra Cycle, 7
+A Star Cycle, 5
+Dijkstra Cycle, 16
+Dijkstra Cycle, 52
+Dijkstra Cycle, 50
+A Star Cycle, 5
+
+
+A Star Cycle, 115
+Dijkstra Cycle, 112
+Dijkstra Cycle, 4
+A Star Cycle, 3
+A Star Cycle, 4
+Dijkstra Cycle, 4
+A Star Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 3
+Dijkstra Cycle, 6
+A Star Cycle, 3
+Dijkstra Cycle, 4
+A Star Cycle, 17
+Dijkstra Cycle, 12
+A Star Cycle, 10
+Dijkstra Cycle, 8
+Dijkstra Cycle, 17
+Dijkstra Cycle, 6
+A Star Cycle, 12
+Dijkstra Cycle, 6
+Dijkstra Cycle, 16
+A Star Cycle, 14
+Dijkstra Cycle, 12
+A Star Cycle, 10
+Dijkstra Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 4
+A Star Cycle, 7
+Dijkstra Cycle, 6
+A Star Cycle, 5
+Dijkstra Cycle, 9
+Dijkstra Cycle, 64
+Dijkstra Cycle, 45
+A Star Cycle, 5
+
+
+A Star Cycle, 114
+Dijkstra Cycle, 111
+Dijkstra Cycle, 7
+A Star Cycle, 3
+A Star Cycle, 6
+Dijkstra Cycle, 5
+A Star Cycle, 5
+Dijkstra Cycle, 6
+A Star Cycle, 5
+Dijkstra Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 3
+A Star Cycle, 10
+Dijkstra Cycle, 10
+A Star Cycle, 8
+Dijkstra Cycle, 11
+Dijkstra Cycle, 15
+Dijkstra Cycle, 10
+A Star Cycle, 11
+Dijkstra Cycle, 5
+Dijkstra Cycle, 10
+A Star Cycle, 7
+Dijkstra Cycle, 13
+A Star Cycle, 9
+Dijkstra Cycle, 5
+Dijkstra Cycle, 6
+A Star Cycle, 4
+A Star Cycle, 6
+Dijkstra Cycle, 6
+A Star Cycle, 6
+Dijkstra Cycle, 9
+Dijkstra Cycle, 56
+Dijkstra Cycle, 44
+A Star Cycle, 5
+
+
+A Star Cycle, 125
+Dijkstra Cycle, 122
+Dijkstra Cycle, 6
+A Star Cycle, 6
+A Star Cycle, 7
+Dijkstra Cycle, 3
+A Star Cycle, 8
+Dijkstra Cycle, 5
+A Star Cycle, 3
+Dijkstra Cycle, 4
+Dijkstra Cycle, 3
+A Star Cycle, 3
+A Star Cycle, 17
+Dijkstra Cycle, 9
+A Star Cycle, 10
+Dijkstra Cycle, 10
+Dijkstra Cycle, 11
+Dijkstra Cycle, 5
+A Star Cycle, 12
+Dijkstra Cycle, 6
+Dijkstra Cycle, 9
+A Star Cycle, 10
+Dijkstra Cycle, 9
+A Star Cycle, 10
+Dijkstra Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 4
+A Star Cycle, 7
+Dijkstra Cycle, 6
+A Star Cycle, 5
+Dijkstra Cycle, 9
+Dijkstra Cycle, 51
+Dijkstra Cycle, 46
+A Star Cycle, 6
+
+
+A Star Cycle, 112
+Dijkstra Cycle, 109
+Dijkstra Cycle, 4
+A Star Cycle, 8
+A Star Cycle, 6
+Dijkstra Cycle, 5
+A Star Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 6
+Dijkstra Cycle, 4
+Dijkstra Cycle, 3
+A Star Cycle, 3
+A Star Cycle, 11
+Dijkstra Cycle, 13
+A Star Cycle, 10
+Dijkstra Cycle, 8
+Dijkstra Cycle, 10
+Dijkstra Cycle, 6
+A Star Cycle, 14
+Dijkstra Cycle, 10
+Dijkstra Cycle, 8
+A Star Cycle, 7
+Dijkstra Cycle, 10
+A Star Cycle, 7
+Dijkstra Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 4
+A Star Cycle, 6
+Dijkstra Cycle, 6
+A Star Cycle, 9
+Dijkstra Cycle, 9
+Dijkstra Cycle, 59
+Dijkstra Cycle, 45
+A Star Cycle, 6
+
+
+A Star Cycle, 115
+Dijkstra Cycle, 113
+A Star Cycle, 3
+Dijkstra Cycle, 3
+A Star Cycle, 3
+Dijkstra Cycle, 3
+A Star Cycle, 8
+Dijkstra Cycle, 4
+A Star Cycle, 3
+Dijkstra Cycle, 4
+Dijkstra Cycle, 7
+A Star Cycle, 3
+A Star Cycle, 10
+Dijkstra Cycle, 9
+A Star Cycle, 8
+Dijkstra Cycle, 8
+Dijkstra Cycle, 10
+Dijkstra Cycle, 5
+A Star Cycle, 16
+Dijkstra Cycle, 4
+Dijkstra Cycle, 8
+A Star Cycle, 7
+Dijkstra Cycle, 7
+A Star Cycle, 8
+Dijkstra Cycle, 4
+Dijkstra Cycle, 6
+A Star Cycle, 3
+A Star Cycle, 6
+Dijkstra Cycle, 6
+A Star Cycle, 4
+Dijkstra Cycle, 8
+Dijkstra Cycle, 55
+Dijkstra Cycle, 46
+A Star Cycle, 5
+
+
+A Star Cycle, 126
+Dijkstra Cycle, 123
+Dijkstra Cycle, 4
+A Star Cycle, 3
+A Star Cycle, 5
+Dijkstra Cycle, 4
+A Star Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 3
+Dijkstra Cycle, 4
+Dijkstra Cycle, 4
+A Star Cycle, 4
+A Star Cycle, 11
+Dijkstra Cycle, 10
+A Star Cycle, 12
+Dijkstra Cycle, 10
+Dijkstra Cycle, 14
+Dijkstra Cycle, 6
+A Star Cycle, 16
+Dijkstra Cycle, 5
+Dijkstra Cycle, 15
+A Star Cycle, 7
+Dijkstra Cycle, 9
+A Star Cycle, 12
+Dijkstra Cycle, 8
+Dijkstra Cycle, 5
+A Star Cycle, 3
+A Star Cycle, 7
+Dijkstra Cycle, 6
+A Star Cycle, 5
+Dijkstra Cycle, 9
+Dijkstra Cycle, 58
+Dijkstra Cycle, 44
+A Star Cycle, 5
+
+
+A Star Cycle, 109
+Dijkstra Cycle, 106
+Dijkstra Cycle, 3
+A Star Cycle, 3
+A Star Cycle, 4
+Dijkstra Cycle, 4
+A Star Cycle, 3
+Dijkstra Cycle, 4
+A Star Cycle, 3
+Dijkstra Cycle, 4
+Dijkstra Cycle, 3
+A Star Cycle, 3
+A Star Cycle, 22
+Dijkstra Cycle, 18
+A Star Cycle, 9
+Dijkstra Cycle, 8
+Dijkstra Cycle, 12
+Dijkstra Cycle, 6
+A Star Cycle, 12
+Dijkstra Cycle, 4
+A Star Cycle, 7
+Dijkstra Cycle, 9
+A Star Cycle, 11
+Dijkstra Cycle, 4
+Dijkstra Cycle, 5
+A Star Cycle, 4
+A Star Cycle, 6
+Dijkstra Cycle, 6
+A Star Cycle, 5
+Dijkstra Cycle, 14
+Dijkstra Cycle, 50
+Dijkstra Cycle, 47
+A Star Cycle, 5
+
+
+A Star Cycle, 0
+Dijkstra Cycle, 102
+
+
+A Star Cycle, 0
+Dijkstra Cycle, 100
+
+
+
+
+A Star Cycle, 0
+Dijkstra Cycle, 112
+A Star Cycle, 0
+Dijkstra Cycle, 5
+A Star Cycle, 0
+Dijkstra Cycle, 5
+Dijkstra Cycle, 6
+A Star Cycle, 0
+
+
+A Star Cycle, 0
+Dijkstra Cycle, 119
+A Star Cycle, 0
+Dijkstra Cycle, 5
+A Star Cycle, 0
+Dijkstra Cycle, 6
+
+
+A Star Cycle, 0
+Dijkstra Cycle, 115
+A Star Cycle, 0
+Dijkstra Cycle, 4
+
+
+
+
+
+
+A Star Cycle, 107
+Dijkstra Cycle, 104
+Dijkstra Cycle, 4
+A Star Cycle, 107
+A Star Cycle, 107
+Dijkstra Cycle, 4
+A Star Cycle, 107
+Dijkstra Cycle, 7
+A Star Cycle, 107
+Dijkstra Cycle, 4
+A Star Cycle, 107
+Dijkstra Cycle, 4
+A Star Cycle, 107
+Dijkstra Cycle, 13
+A Star Cycle, 107
+Dijkstra Cycle, 9
+Dijkstra Cycle, 11
+Dijkstra Cycle, 8
+A Star Cycle, 107
+Dijkstra Cycle, 9
+Dijkstra Cycle, 10
+A Star Cycle, 107
+Dijkstra Cycle, 13
+A Star Cycle, 107
+Dijkstra Cycle, 5
+Dijkstra Cycle, 6
+A Star Cycle, 107
+A Star Cycle, 107
+Dijkstra Cycle, 8
+A Star Cycle, 107
+Dijkstra Cycle, 9
+Dijkstra Cycle, 61
+Dijkstra Cycle, 50
+A Star Cycle, 107
+
+
+
+
+Dijkstra Cycle, 95

@@ -1,0 +1,371 @@
+A Star,Dijkstra
+
+
+A Star Cycle, 00:00:00.0002671
+Dijkstra Cycle, 00:00:00.0035404
+Dijkstra Cycle, 00:00:00.0004814
+A Star Cycle, 00:00:00.0000329
+A Star Cycle, 00:00:00.0000525
+Dijkstra Cycle, 00:00:00.0007819
+A Star Cycle, 00:00:00.0000595
+Dijkstra Cycle, 00:00:00.0006946
+A Star Cycle, 00:00:00.0000206
+Dijkstra Cycle, 00:00:00.0002420
+Dijkstra Cycle, 00:00:00.0002841
+A Star Cycle, 00:00:00.0000231
+A Star Cycle, 00:00:00.0000722
+Dijkstra Cycle, 00:00:00.0006084
+A Star Cycle, 00:00:00.0000516
+Dijkstra Cycle, 00:00:00.0005919
+Dijkstra Cycle, 00:00:00.0002716
+Dijkstra Cycle, 00:00:00.0007383
+A Star Cycle, 00:00:00.0000288
+Dijkstra Cycle, 00:00:00.0008299
+Dijkstra Cycle, 00:00:00.0009045
+A Star Cycle, 00:00:00.0000172
+Dijkstra Cycle, 00:00:00.0008103
+A Star Cycle, 00:00:00.0000235
+Dijkstra Cycle, 00:00:00.0004507
+Dijkstra Cycle, 00:00:00.0019386
+A Star Cycle, 00:00:00.0000245
+A Star Cycle, 00:00:00.0001291
+Dijkstra Cycle, 00:00:00.0005629
+A Star Cycle, 00:00:00.0000482
+Dijkstra Cycle, 00:00:00.0013009
+Dijkstra Cycle, 00:00:00.0003722
+Dijkstra Cycle, 00:00:00.0001677
+A Star Cycle, 00:00:00.0003448
+
+
+A Star Cycle, 00:00:00.0003578
+Dijkstra Cycle, 00:00:00.0033845
+Dijkstra Cycle, 00:00:00.0009442
+A Star Cycle, 00:00:00.0000322
+A Star Cycle, 00:00:00.0000678
+Dijkstra Cycle, 00:00:00.0005154
+A Star Cycle, 00:00:00.0000338
+Dijkstra Cycle, 00:00:00.0013204
+A Star Cycle, 00:00:00.0000269
+Dijkstra Cycle, 00:00:00.0002765
+Dijkstra Cycle, 00:00:00.0002623
+A Star Cycle, 00:00:00.0000231
+A Star Cycle, 00:00:00.0000326
+Dijkstra Cycle, 00:00:00.0005759
+A Star Cycle, 00:00:00.0000353
+Dijkstra Cycle, 00:00:00.0006075
+Dijkstra Cycle, 00:00:00.0002927
+Dijkstra Cycle, 00:00:00.0008456
+A Star Cycle, 00:00:00.0000280
+Dijkstra Cycle, 00:00:00.0007624
+A Star Cycle, 00:00:00.0000204
+Dijkstra Cycle, 00:00:00.0007952
+A Star Cycle, 00:00:00.0000256
+Dijkstra Cycle, 00:00:00.0004838
+Dijkstra Cycle, 00:00:00.0017113
+A Star Cycle, 00:00:00.0000282
+A Star Cycle, 00:00:00.0000354
+Dijkstra Cycle, 00:00:00.0005617
+A Star Cycle, 00:00:00.0000501
+Dijkstra Cycle, 00:00:00.0010617
+Dijkstra Cycle, 00:00:00.0003811
+Dijkstra Cycle, 00:00:00.0001595
+A Star Cycle, 00:00:00.0003408
+
+
+A Star Cycle, 00:00:00.0003733
+Dijkstra Cycle, 00:00:00.0035497
+Dijkstra Cycle, 00:00:00.0005134
+A Star Cycle, 00:00:00.0000418
+A Star Cycle, 00:00:00.0000667
+Dijkstra Cycle, 00:00:00.0005471
+A Star Cycle, 00:00:00.0000351
+Dijkstra Cycle, 00:00:00.0014828
+A Star Cycle, 00:00:00.0000212
+Dijkstra Cycle, 00:00:00.0002925
+Dijkstra Cycle, 00:00:00.0002931
+A Star Cycle, 00:00:00.0000252
+A Star Cycle, 00:00:00.0000303
+Dijkstra Cycle, 00:00:00.0006124
+A Star Cycle, 00:00:00.0000364
+Dijkstra Cycle, 00:00:00.0008246
+Dijkstra Cycle, 00:00:00.0002743
+Dijkstra Cycle, 00:00:00.0008379
+A Star Cycle, 00:00:00.0000301
+Dijkstra Cycle, 00:00:00.0009067
+Dijkstra Cycle, 00:00:00.0009235
+A Star Cycle, 00:00:00.0000164
+Dijkstra Cycle, 00:00:00.0008272
+A Star Cycle, 00:00:00.0000247
+Dijkstra Cycle, 00:00:00.0005348
+Dijkstra Cycle, 00:00:00.0015538
+A Star Cycle, 00:00:00.0000245
+A Star Cycle, 00:00:00.0000349
+Dijkstra Cycle, 00:00:00.0005608
+A Star Cycle, 00:00:00.0000518
+Dijkstra Cycle, 00:00:00.0011545
+Dijkstra Cycle, 00:00:00.0003793
+Dijkstra Cycle, 00:00:00.0001702
+A Star Cycle, 00:00:00.0003286
+
+
+A Star Cycle, 00:00:00.0003292
+Dijkstra Cycle, 00:00:00.0034927
+Dijkstra Cycle, 00:00:00.0005179
+A Star Cycle, 00:00:00.0000362
+A Star Cycle, 00:00:00.0000291
+Dijkstra Cycle, 00:00:00.0004927
+A Star Cycle, 00:00:00.0000335
+Dijkstra Cycle, 00:00:00.0006943
+A Star Cycle, 00:00:00.0000210
+Dijkstra Cycle, 00:00:00.0002477
+A Star Cycle, 00:00:00.0000228
+Dijkstra Cycle, 00:00:00.0004444
+A Star Cycle, 00:00:00.0000350
+Dijkstra Cycle, 00:00:00.0005683
+A Star Cycle, 00:00:00.0000324
+Dijkstra Cycle, 00:00:00.0005768
+Dijkstra Cycle, 00:00:00.0002760
+Dijkstra Cycle, 00:00:00.0009978
+A Star Cycle, 00:00:00.0000704
+Dijkstra Cycle, 00:00:00.0008795
+Dijkstra Cycle, 00:00:00.0010122
+A Star Cycle, 00:00:00.0000151
+Dijkstra Cycle, 00:00:00.0008082
+A Star Cycle, 00:00:00.0000791
+Dijkstra Cycle, 00:00:00.0004676
+Dijkstra Cycle, 00:00:00.0014954
+A Star Cycle, 00:00:00.0000567
+A Star Cycle, 00:00:00.0000374
+Dijkstra Cycle, 00:00:00.0009566
+A Star Cycle, 00:00:00.0000527
+Dijkstra Cycle, 00:00:00.0010125
+Dijkstra Cycle, 00:00:00.0003784
+Dijkstra Cycle, 00:00:00.0001545
+A Star Cycle, 00:00:00.0003278
+
+
+A Star Cycle, 00:00:00.0002699
+Dijkstra Cycle, 00:00:00.0034887
+Dijkstra Cycle, 00:00:00.0005010
+A Star Cycle, 00:00:00.0000318
+A Star Cycle, 00:00:00.0000392
+Dijkstra Cycle, 00:00:00.0004763
+A Star Cycle, 00:00:00.0000323
+Dijkstra Cycle, 00:00:00.0006537
+A Star Cycle, 00:00:00.0000264
+Dijkstra Cycle, 00:00:00.0002670
+Dijkstra Cycle, 00:00:00.0002639
+A Star Cycle, 00:00:00.0000268
+A Star Cycle, 00:00:00.0000319
+Dijkstra Cycle, 00:00:00.0006150
+A Star Cycle, 00:00:00.0000360
+Dijkstra Cycle, 00:00:00.0006139
+Dijkstra Cycle, 00:00:00.0002754
+Dijkstra Cycle, 00:00:00.0007287
+A Star Cycle, 00:00:00.0000316
+Dijkstra Cycle, 00:00:00.0009075
+A Star Cycle, 00:00:00.0000171
+Dijkstra Cycle, 00:00:00.0007616
+A Star Cycle, 00:00:00.0000251
+Dijkstra Cycle, 00:00:00.0004645
+Dijkstra Cycle, 00:00:00.0014878
+A Star Cycle, 00:00:00.0000270
+A Star Cycle, 00:00:00.0000679
+Dijkstra Cycle, 00:00:00.0005648
+A Star Cycle, 00:00:00.0000529
+Dijkstra Cycle, 00:00:00.0010177
+Dijkstra Cycle, 00:00:00.0003746
+Dijkstra Cycle, 00:00:00.0001677
+A Star Cycle, 00:00:00.0003552
+
+
+A Star Cycle, 00:00:00.0002671
+Dijkstra Cycle, 00:00:00.0035745
+Dijkstra Cycle, 00:00:00.0005019
+A Star Cycle, 00:00:00.0000332
+A Star Cycle, 00:00:00.0000764
+Dijkstra Cycle, 00:00:00.0037247
+A Star Cycle, 00:00:00.0000431
+Dijkstra Cycle, 00:00:00.0013954
+A Star Cycle, 00:00:00.0000401
+Dijkstra Cycle, 00:00:00.0002829
+A Star Cycle, 00:00:00.0000354
+Dijkstra Cycle, 00:00:00.0003936
+A Star Cycle, 00:00:00.0000444
+Dijkstra Cycle, 00:00:00.0005646
+A Star Cycle, 00:00:00.0000329
+Dijkstra Cycle, 00:00:00.0025106
+Dijkstra Cycle, 00:00:00.0002702
+Dijkstra Cycle, 00:00:00.0007735
+A Star Cycle, 00:00:00.0000341
+Dijkstra Cycle, 00:00:00.0009954
+Dijkstra Cycle, 00:00:00.0009094
+A Star Cycle, 00:00:00.0000177
+Dijkstra Cycle, 00:00:00.0007609
+A Star Cycle, 00:00:00.0000242
+Dijkstra Cycle, 00:00:00.0004543
+Dijkstra Cycle, 00:00:00.0014831
+A Star Cycle, 00:00:00.0000478
+A Star Cycle, 00:00:00.0000363
+Dijkstra Cycle, 00:00:00.0005464
+A Star Cycle, 00:00:00.0000501
+Dijkstra Cycle, 00:00:00.0010134
+Dijkstra Cycle, 00:00:00.0003734
+Dijkstra Cycle, 00:00:00.0001584
+A Star Cycle, 00:00:00.0003405
+
+
+A Star Cycle, 00:00:00.0002895
+Dijkstra Cycle, 00:00:00.0035265
+Dijkstra Cycle, 00:00:00.0004781
+A Star Cycle, 00:00:00.0000294
+A Star Cycle, 00:00:00.0000714
+Dijkstra Cycle, 00:00:00.0004433
+A Star Cycle, 00:00:00.0000355
+Dijkstra Cycle, 00:00:00.0006489
+A Star Cycle, 00:00:00.0000220
+Dijkstra Cycle, 00:00:00.0002414
+A Star Cycle, 00:00:00.0000222
+Dijkstra Cycle, 00:00:00.0002578
+A Star Cycle, 00:00:00.0000329
+Dijkstra Cycle, 00:00:00.0005579
+A Star Cycle, 00:00:00.0000396
+Dijkstra Cycle, 00:00:00.0005912
+Dijkstra Cycle, 00:00:00.0002679
+Dijkstra Cycle, 00:00:00.0007723
+A Star Cycle, 00:00:00.0000301
+Dijkstra Cycle, 00:00:00.0010811
+Dijkstra Cycle, 00:00:00.0013301
+A Star Cycle, 00:00:00.0000163
+Dijkstra Cycle, 00:00:00.0008075
+A Star Cycle, 00:00:00.0000222
+Dijkstra Cycle, 00:00:00.0004907
+Dijkstra Cycle, 00:00:00.0014693
+A Star Cycle, 00:00:00.0000273
+A Star Cycle, 00:00:00.0000367
+Dijkstra Cycle, 00:00:00.0006254
+A Star Cycle, 00:00:00.0000697
+Dijkstra Cycle, 00:00:00.0010199
+Dijkstra Cycle, 00:00:00.0003874
+Dijkstra Cycle, 00:00:00.0001664
+A Star Cycle, 00:00:00.0003114
+
+
+A Star Cycle, 00:00:00.0004504
+Dijkstra Cycle, 00:00:00.0046001
+Dijkstra Cycle, 00:00:00.0005361
+A Star Cycle, 00:00:00.0000341
+A Star Cycle, 00:00:00.0000302
+Dijkstra Cycle, 00:00:00.0004687
+A Star Cycle, 00:00:00.0000370
+Dijkstra Cycle, 00:00:00.0006267
+A Star Cycle, 00:00:00.0000212
+Dijkstra Cycle, 00:00:00.0002727
+Dijkstra Cycle, 00:00:00.0003580
+A Star Cycle, 00:00:00.0000226
+A Star Cycle, 00:00:00.0000482
+Dijkstra Cycle, 00:00:00.0005623
+A Star Cycle, 00:00:00.0000394
+Dijkstra Cycle, 00:00:00.0013516
+Dijkstra Cycle, 00:00:00.0003011
+Dijkstra Cycle, 00:00:00.0013637
+A Star Cycle, 00:00:00.0000274
+Dijkstra Cycle, 00:00:00.0009082
+Dijkstra Cycle, 00:00:00.0010688
+A Star Cycle, 00:00:00.0000163
+Dijkstra Cycle, 00:00:00.0008281
+A Star Cycle, 00:00:00.0000240
+Dijkstra Cycle, 00:00:00.0006113
+Dijkstra Cycle, 00:00:00.0015252
+A Star Cycle, 00:00:00.0000276
+A Star Cycle, 00:00:00.0000365
+Dijkstra Cycle, 00:00:00.0007639
+A Star Cycle, 00:00:00.0000515
+Dijkstra Cycle, 00:00:00.0015611
+Dijkstra Cycle, 00:00:00.0003760
+Dijkstra Cycle, 00:00:00.0002772
+A Star Cycle, 00:00:00.0003335
+
+
+A Star Cycle, 00:00:00.0002625
+Dijkstra Cycle, 00:00:00.0036463
+Dijkstra Cycle, 00:00:00.0004902
+A Star Cycle, 00:00:00.0000309
+A Star Cycle, 00:00:00.0000310
+Dijkstra Cycle, 00:00:00.0004793
+A Star Cycle, 00:00:00.0000361
+Dijkstra Cycle, 00:00:00.0006863
+A Star Cycle, 00:00:00.0000251
+Dijkstra Cycle, 00:00:00.0002514
+Dijkstra Cycle, 00:00:00.0002627
+A Star Cycle, 00:00:00.0000214
+A Star Cycle, 00:00:00.0000728
+Dijkstra Cycle, 00:00:00.0005721
+A Star Cycle, 00:00:00.0000323
+Dijkstra Cycle, 00:00:00.0006075
+Dijkstra Cycle, 00:00:00.0002843
+Dijkstra Cycle, 00:00:00.0007675
+A Star Cycle, 00:00:00.0000304
+Dijkstra Cycle, 00:00:00.0007241
+Dijkstra Cycle, 00:00:00.0009336
+A Star Cycle, 00:00:00.0000151
+Dijkstra Cycle, 00:00:00.0007997
+A Star Cycle, 00:00:00.0000222
+Dijkstra Cycle, 00:00:00.0004522
+Dijkstra Cycle, 00:00:00.0015682
+A Star Cycle, 00:00:00.0000386
+A Star Cycle, 00:00:00.0001058
+Dijkstra Cycle, 00:00:00.0006008
+A Star Cycle, 00:00:00.0000484
+Dijkstra Cycle, 00:00:00.0010832
+Dijkstra Cycle, 00:00:00.0003955
+Dijkstra Cycle, 00:00:00.0001925
+A Star Cycle, 00:00:00.0003139
+
+
+A Star Cycle, 00:00:00.0003336
+Dijkstra Cycle, 00:00:00.0037384
+Dijkstra Cycle, 00:00:00.0005657
+A Star Cycle, 00:00:00.0000320
+A Star Cycle, 00:00:00.0000693
+Dijkstra Cycle, 00:00:00.0004727
+A Star Cycle, 00:00:00.0000357
+Dijkstra Cycle, 00:00:00.0006324
+A Star Cycle, 00:00:00.0000294
+Dijkstra Cycle, 00:00:00.0002862
+A Star Cycle, 00:00:00.0000296
+Dijkstra Cycle, 00:00:00.0002692
+A Star Cycle, 00:00:00.0000327
+Dijkstra Cycle, 00:00:00.0006760
+A Star Cycle, 00:00:00.0000323
+Dijkstra Cycle, 00:00:00.0007411
+Dijkstra Cycle, 00:00:00.0002644
+Dijkstra Cycle, 00:00:00.0007370
+A Star Cycle, 00:00:00.0000266
+Dijkstra Cycle, 00:00:00.0006897
+Dijkstra Cycle, 00:00:00.0009068
+A Star Cycle, 00:00:00.0000166
+Dijkstra Cycle, 00:00:00.0007699
+A Star Cycle, 00:00:00.0000242
+Dijkstra Cycle, 00:00:00.0004919
+Dijkstra Cycle, 00:00:00.0045319
+A Star Cycle, 00:00:00.0000321
+A Star Cycle, 00:00:00.0000465
+Dijkstra Cycle, 00:00:00.0005505
+A Star Cycle, 00:00:00.0000497
+Dijkstra Cycle, 00:00:00.0010333
+Dijkstra Cycle, 00:00:00.0003685
+Dijkstra Cycle, 00:00:00.0001593
+A Star Cycle, 00:00:00.0003306
+
+
+A Star Cycle, 00:00:00.0002513
+Dijkstra Cycle, 00:00:00.0019612
+Dijkstra Cycle, 00:00:00.0004630
+A Star Cycle, 00:00:00.0000316
+A Star Cycle, 00:00:00.0000318
+Dijkstra Cycle, 00:00:00.0004368
+A Star Cycle, 00:00:00.0000529
+Dijkstra Cycle, 00:00:00.0006383
+A Star Cycle, 00:00:00.0000221
+Dijkstra Cycle, 00:00:00.0002422
